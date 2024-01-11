@@ -5,5 +5,5 @@ This is our lesson on git collaborations
 this line is for testing merges on github
 
 Fav movies of 2023
--Across the spiderve
+- Across the spiderve
 - gran turismo
